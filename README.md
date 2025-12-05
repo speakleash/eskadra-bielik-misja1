@@ -81,7 +81,7 @@ Przykładowy kod źródłowy pozwalający na:
 >Alternatywnie, możesz uruchomić powyższą komendę korzystając ze skryptu `deploy-bielik.sh`
 
    ```bash
-   deploy-bielik.sh
+   source deploy-bielik.sh
    ```
 
 >[!CAUTION]
@@ -257,7 +257,7 @@ graph TD
 >Alternatywnie, możesz uruchomić powyższą komendę korzystając ze skryptu `deploy-adk-agents.sh`
 
    ```bash
-   deploy-adk-agents.sh
+   source deploy-adk-agents.sh
    ```
 
 >[!CAUTION]
