@@ -1,2 +1,2 @@
-google-adk~=1.14.1
+google-adk~=1.19.0
 litellm
